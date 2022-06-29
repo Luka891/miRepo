@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+   /* 
+}
+div{
+    height: 150px;
+}
+#rojo{
+    background: red;
+    position: absolute;/*saca el elemento del flujo, fila cnueva por un
+     lado
+     right: 0;
+z-index: 0;/*maniopula la capa del elemento
+position: relative;/*comienza el elemento
+
+
+
+
+
+}
+
+#blue{
+    background: blue;
+    position: static;
+    top: 50px;
+
+}
+#pink{
+    background: pink;
+    position: relative;
+    top: 50px;
+    left: 200px;
+
+}
+#rosa h2{
+    position: absolute;
+    right: 0;
+}
+*/
+ .card{
+display: inline-block;
+width: 250px;
+height: 100px;
+margin: 100px 50px;
+background: purple;
+position: relative;
+ }
+ .card h2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: 10px;
+
+ }
+ .btn{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+ }
+ .menu{
+    background: pink;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    z-index: 1;
+ }
+
+
+
+

@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+.flex-container{
+    flex-direction: row;
+    display:flex;
+    background-color:blueviolet;
+    padding: 10px;
+
+    justify-content: flex-start;
+}
+
+.nav-link{
+    display: flex;
+    background-color: blueviolet;
+    padding: 10px; 
+    border: 2px solid #000;
+    justify-content: flex-end;
+}
+.h2{
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 250%;
+    font-family:"lucida Console";
+    
+}
+.p{
+    text-align: center;
+}
+.classp{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 200%; 
+    font-style: oblique;
+}
+.logo{
+    display:flex;
+    height: 70px;
+
+}
+.logo-buscar{
+    height: 10px;
+}
+header{
+    background-color: blueviolet;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.imagen2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+    background-color: pink;
+    
+    
+    
+}
+.flex-container2{
+    flex-direction: column;
+    display:flex;
+    background-color:blueviolet;
+    padding: 10px;
+    border:2px solid #000;
+    justify-content: flex-end;
+}
+
+
+
+
+

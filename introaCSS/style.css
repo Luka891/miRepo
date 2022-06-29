@@ -1,0 +1,50 @@
+p{
+    color: rgb(34, 46, 33);
+    font-size: 40px;
+    background-color: blueviolet;
+    }
+    /* estos nombres pueden ser cualquiera 
+    solo iniciando con el punto para iniciarlo con html es necesario
+     mandar a llamarlo con la etiqueta class="letras-1"*/
+    .letras-1{
+     color: hotpink;   
+    }
+    .clase-li-2{
+        font-size:30px;
+        font-weight: bold;
+
+    }
+    .clase-ul-1{
+        font-size: 40px;
+        color:red;
+    }
+    /* id´s#*/
+    #lista-del-super{
+        background-color: pink;
+        font-size: 50px;
+        color:blue;
+    }
+    #elemento3{
+        font-size: 45px;
+        text-transform: uppercase;
+        font-style: italic;
+    }
+    #parrafo1{
+        color: coral;
+    }
+    #imagen1{
+       width: 50px;
+    }
+    #imagen-win{
+        width: 100px;
+
+    }
+    /*selectores avanzados*/
+/*se utilizan para anidar elementos y especificar el color
+de fondo,tipografia,etc */
+body{
+   /*background-color: aqua ;*/
+   /*para poner imagen como fondo de pagina*/
+   background-image: url(https://fondosmil.com/fondo/17060.jpg);
+   background-size: cover;
+}

@@ -1,0 +1,24 @@
+div{
+    width: 200px;
+    height: 200px;
+
+}
+#seccion1{
+    background-color: blue;
+    float: right;
+
+}
+#seccion2{
+    background-color: red;
+    float: left;
+
+}
+#seccion3{
+    background-color: black;
+    float: left;
+
+}
+#seccion4{
+    background-color: yellow;
+    float: left;
+}

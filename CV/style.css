@@ -1,0 +1,48 @@
+header{
+    color: blanchedalmond;
+    font-size: 60px;
+    font-weight: 30px;
+    background-color: aqua;
+}
+h1{
+    color:black;
+font-size: 40px;
+background-color: azure;
+}
+h2{
+    color: chocolate;
+    font-size: 35px;
+}
+h3{
+    color: chocolate;
+    font-size: 35px;
+}
+
+li{
+
+    color: black;
+    font-size: 30px;
+    
+}
+.table-datpers{
+    color: darkgreen;
+    font-size: 40px;
+}
+#imagen1{
+    width: 150px;   
+}
+.titulos-obt{
+    color: brown;
+
+}
+.ul-1{
+    color: aquamarine;
+    font-size: 40px;
+
+
+}
+
+body{
+    background-image: url(../pngegg\ \(12\).png);
+    /*background-size: cover;*/
+}

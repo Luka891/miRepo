@@ -1,0 +1,45 @@
+body{
+    font-family: 'Fascinate', cursive;
+}
+p {
+    color: blue;
+    font-size: 30px;
+}
+.parrafos {
+    color: brown;
+}
+#parrafo1 {
+    color: blueviolet;
+}
+/*pseudoclases y pseudoelementos*/
+.mi-botton{
+    height: 80px;
+    width: 160px;
+
+}
+.mi-boton:hover{
+    background-color: orangered;
+    font-size: 30px;
+    color:rgb(rgb(0,1, 255), green, blue);
+    font-weight: bold;
+}
+.mi-boton:hover:before{
+    content:'haz click';
+    
+}
+.mi-input{
+    display: block;
+    margin-top: 20px;
+    width: 60px;
+    height: 60px;
+
+
+}
+.mi-input:focus
+{
+    outline-color: red;
+    border-radius: 10px;
+    height: 40px;
+
+
+}
